@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Harvard_University_shield.png" alt="Harvard CS50P" width="140"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Harvard_University_shield.png" alt="Harvard CS50P" width="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="Python Logo" width="100"/>
 </p>
 
 <h1 align="center">CS50P – Python</h1>
